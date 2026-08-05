@@ -1,1 +1,4 @@
-# vim
+# read
+dependencies:
+fzf
+ripgrep
